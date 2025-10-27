@@ -1,0 +1,12 @@
+{
+    "name":"Jack Sparrow",
+    "age":25,
+    "isStudent":"Yes",
+    "skills":["HTML","CSS","JavaScript"],
+    "address":{
+        "homeNumber":"73/2 A",
+        "road":"Trinco Road",
+        "city":"Batticaloa",
+        "zip":3000
+    }
+}
